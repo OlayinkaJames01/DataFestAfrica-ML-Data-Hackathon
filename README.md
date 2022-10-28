@@ -56,4 +56,4 @@ e_signed: If the application was completed as an e-signing process or not
 Checking out how each column affects the target column (e_signed). 
 
 ### Model Building
-Used various classification models like Logistic Regression, CatBoost, Xgboost, Random Forest and LightGB models to get the best prediction possible. A lot of hyperparameter tunnings were done also.
+Used various classification models like Logistic Regression, CatBoost, Xgboost, Random Forest and LightGB models to get the best prediction possible. A lot of hyperparameter tunnings were done in a bid to get the optimized parameter for the best performing models.
